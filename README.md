@@ -1,1 +1,1 @@
-An iOS APP which collecting data for Project Motion.
+An iOS APP which collects data for Project Motion.
